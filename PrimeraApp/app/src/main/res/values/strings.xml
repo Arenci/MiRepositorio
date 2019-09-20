@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrimeraApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_to_request">Send to request</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="required_field">Required Field</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
